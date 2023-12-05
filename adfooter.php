@@ -1,6 +1,6 @@
 
 <footer class="main-footer">
-    <strong>Copyright &copy;2022 <a href="">Garage Software Pvt Ltd</a>.</strong>
+    <strong>Copyright Nahi krunga &copy;2022 <a href="">Garage Software Pvt Ltd</a>.</strong>
     All rights reserved.
   </footer>
 
