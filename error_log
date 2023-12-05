@@ -1,0 +1,594 @@
+[02-Mar-2023 10:55:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/newfortunemotors/MainAdmin/connection.php on line 7
+[02-Mar-2023 12:04:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/newfortunemotors/MainAdmin/connection.php on line 7
+[02-Mar-2023 12:08:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/newfortunemotors/MainAdmin/connection.php on line 7
+[05-Apr-2023 08:56:06 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 356
+[05-Apr-2023 08:56:06 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 356
+[05-Apr-2023 08:56:06 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 366
+[05-Apr-2023 09:56:53 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 356
+[05-Apr-2023 09:56:53 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 356
+[05-Apr-2023 09:56:53 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 366
+[05-Apr-2023 10:37:12 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 356
+[05-Apr-2023 10:37:12 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 356
+[05-Apr-2023 10:37:12 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 366
+[05-Apr-2023 12:06:06 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 356
+[05-Apr-2023 12:06:06 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 356
+[05-Apr-2023 12:06:06 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 366
+[06-Apr-2023 05:52:36 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 356
+[06-Apr-2023 05:52:36 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 356
+[06-Apr-2023 05:52:36 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 366
+[06-Apr-2023 09:05:59 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 356
+[06-Apr-2023 09:05:59 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 356
+[06-Apr-2023 09:05:59 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 366
+[06-Apr-2023 09:27:07 UTC] PHP Warning:  Undefined array key "car_model" in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 46
+[06-Apr-2023 09:27:07 UTC] PHP Warning:  Undefined array key "car_model" in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 46
+[06-Apr-2023 09:27:07 UTC] PHP Warning:  Undefined array key "car_model" in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 46
+[06-Apr-2023 09:27:07 UTC] PHP Warning:  Undefined array key "car_model" in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 46
+[06-Apr-2023 09:27:11 UTC] PHP Warning:  Undefined array key "car_model" in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 46
+[06-Apr-2023 09:27:11 UTC] PHP Warning:  Undefined array key "car_model" in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 46
+[06-Apr-2023 09:27:11 UTC] PHP Warning:  Undefined array key "car_model" in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 46
+[06-Apr-2023 09:27:11 UTC] PHP Warning:  Undefined array key "car_model" in /home2/showmeio/public_html/autocarcare/MainAdmin/adminFunction.php on line 46
+[12-Apr-2023 10:49:20 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 606
+[12-Apr-2023 10:50:37 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[12-Apr-2023 10:50:37 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[12-Apr-2023 10:50:37 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 366
+[13-Apr-2023 03:24:05 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/credencemotors/MainAdmin/invoice.php on line 150
+[13-Apr-2023 10:41:36 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[13-Apr-2023 10:41:36 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[13-Apr-2023 10:41:36 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 366
+[13-Apr-2023 10:52:12 UTC] PHP Warning:  Undefined array key "c_gst" in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 336
+[13-Apr-2023 10:52:12 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[13-Apr-2023 10:52:12 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[13-Apr-2023 10:52:12 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 366
+[19-Apr-2023 05:27:24 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[19-Apr-2023 05:27:24 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[19-Apr-2023 05:27:24 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 366
+[28-Apr-2023 11:32:54 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/credencemotors/MainAdmin/invoice.php on line 150
+[30-Apr-2023 03:55:55 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[30-Apr-2023 03:55:55 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[30-Apr-2023 03:55:55 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 366
+[30-Apr-2023 04:02:36 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[30-Apr-2023 04:02:36 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[30-Apr-2023 04:02:36 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 366
+[01-May-2023 06:14:37 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 607
+[01-May-2023 06:17:17 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[01-May-2023 06:17:17 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[01-May-2023 06:17:17 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 366
+[01-May-2023 08:03:36 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 607
+[01-May-2023 08:07:52 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[01-May-2023 08:07:52 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[01-May-2023 08:07:52 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 366
+[02-May-2023 07:37:32 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[02-May-2023 07:37:32 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[02-May-2023 07:37:32 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 366
+[02-May-2023 12:14:30 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/credencemotors/MainAdmin/invoice.php on line 153
+[02-May-2023 12:18:47 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/credencemotors/MainAdmin/invoice.php on line 153
+[02-May-2023 12:21:14 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[02-May-2023 12:21:14 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 356
+[02-May-2023 12:21:14 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/credencemotors/MainAdmin/adminFunction.php on line 366
+[08-May-2023 11:50:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php:7
+Stack trace:
+#0 /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php(7): mysqli_connect('localhost', 'root', '', 'showmeio_garage...')
+#1 /home2/showmeio/public_html/credencemotors/MainAdmin2/adminFunction.php(2): require('/home2/showmeio...')
+#2 /home2/showmeio/public_html/credencemotors/MainAdmin2/login.php(1): require('/home2/showmeio...')
+#3 {main}
+  thrown in /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php on line 7
+[08-May-2023 11:51:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php:7
+Stack trace:
+#0 /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php(7): mysqli_connect('localhost', 'root', '', 'showmeio_garage...')
+#1 /home2/showmeio/public_html/credencemotors/MainAdmin2/adminFunction.php(2): require('/home2/showmeio...')
+#2 /home2/showmeio/public_html/credencemotors/MainAdmin2/login.php(1): require('/home2/showmeio...')
+#3 {main}
+  thrown in /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php on line 7
+[08-May-2023 11:51:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php:7
+Stack trace:
+#0 /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php(7): mysqli_connect('localhost', 'root', '', 'showmeio_garage...')
+#1 /home2/showmeio/public_html/credencemotors/MainAdmin2/adminFunction.php(2): require('/home2/showmeio...')
+#2 /home2/showmeio/public_html/credencemotors/MainAdmin2/login.php(1): require('/home2/showmeio...')
+#3 {main}
+  thrown in /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php on line 7
+[08-May-2023 11:51:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php:7
+Stack trace:
+#0 /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php(7): mysqli_connect('localhost', 'root', '', 'showmeio_garage...')
+#1 /home2/showmeio/public_html/credencemotors/MainAdmin2/adminFunction.php(2): require('/home2/showmeio...')
+#2 /home2/showmeio/public_html/credencemotors/MainAdmin2/login.php(1): require('/home2/showmeio...')
+#3 {main}
+  thrown in /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php on line 7
+[08-May-2023 11:51:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php:7
+Stack trace:
+#0 /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php(7): mysqli_connect('localhost', 'root', '', 'showmeio_garage...')
+#1 /home2/showmeio/public_html/credencemotors/MainAdmin2/adminFunction.php(2): require('/home2/showmeio...')
+#2 /home2/showmeio/public_html/credencemotors/MainAdmin2/login.php(1): require('/home2/showmeio...')
+#3 {main}
+  thrown in /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php on line 7
+[08-May-2023 11:51:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php:7
+Stack trace:
+#0 /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php(7): mysqli_connect('localhost', 'root', '', 'showmeio_garage...')
+#1 /home2/showmeio/public_html/credencemotors/MainAdmin2/adminFunction.php(2): require('/home2/showmeio...')
+#2 /home2/showmeio/public_html/credencemotors/MainAdmin2/login.php(1): require('/home2/showmeio...')
+#3 {main}
+  thrown in /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php on line 7
+[08-May-2023 11:51:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php:7
+Stack trace:
+#0 /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php(7): mysqli_connect('localhost', 'root', '', 'showmeio_garage...')
+#1 /home2/showmeio/public_html/credencemotors/MainAdmin2/adminFunction.php(2): require('/home2/showmeio...')
+#2 /home2/showmeio/public_html/credencemotors/MainAdmin2/login.php(1): require('/home2/showmeio...')
+#3 {main}
+  thrown in /home2/showmeio/public_html/credencemotors/MainAdmin2/connection.php on line 7
+[08-May-2023 11:58:47 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/credencemotors/MainAdmin2/adminFunction.php on line 358
+[08-May-2023 11:58:47 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/credencemotors/MainAdmin2/adminFunction.php on line 358
+[08-May-2023 11:58:47 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/credencemotors/MainAdmin2/adminFunction.php on line 368
+[08-May-2023 12:24:44 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/credencemotors/MainAdmin2/adminFunction.php on line 358
+[08-May-2023 12:24:44 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/credencemotors/MainAdmin2/adminFunction.php on line 358
+[08-May-2023 12:24:44 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/credencemotors/MainAdmin2/adminFunction.php on line 368
+[09-May-2023 05:53:15 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/autocarcare/MainAdmin_avinash/adminFunction.php on line 358
+[09-May-2023 05:53:15 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/autocarcare/MainAdmin_avinash/adminFunction.php on line 358
+[09-May-2023 05:53:15 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/autocarcare/MainAdmin_avinash/adminFunction.php on line 368
+[09-May-2023 08:58:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/autocarcare/MainAdmin_avinash/service-reminder.php:20
+Stack trace:
+#0 /home2/showmeio/public_html/autocarcare/MainAdmin_avinash/service-reminder.php(20): mysqli_connect('localhost', 'root', '', 'showmeio_garage...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/autocarcare/MainAdmin_avinash/service-reminder.php on line 20
+[09-May-2023 08:59:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/autocarcare/MainAdmin_avinash/service-reminder.php:20
+Stack trace:
+#0 /home2/showmeio/public_html/autocarcare/MainAdmin_avinash/service-reminder.php(20): mysqli_connect('localhost', 'root', '', 'showmeio_garage...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/autocarcare/MainAdmin_avinash/service-reminder.php on line 20
+[09-May-2023 11:40:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/service-reminder.php:67) in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/service-reminder.php on line 69
+[09-May-2023 11:45:15 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/adminFunction.php on line 358
+[09-May-2023 11:45:15 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/adminFunction.php on line 358
+[09-May-2023 11:45:15 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/adminFunction.php on line 368
+[09-May-2023 11:45:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/service-reminder.php:67) in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/service-reminder.php on line 69
+[09-May-2023 11:52:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/service-reminder.php:67) in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/service-reminder.php on line 69
+[09-May-2023 11:52:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/service-reminder.php:67) in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/service-reminder.php on line 69
+[09-May-2023 11:57:17 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/adminFunction.php on line 358
+[09-May-2023 11:57:17 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/adminFunction.php on line 358
+[09-May-2023 11:57:17 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/adminFunction.php on line 368
+[09-May-2023 11:57:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/service-reminder.php:67) in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/service-reminder.php on line 69
+[09-May-2023 13:27:42 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/adminFunction.php on line 358
+[09-May-2023 13:27:42 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/adminFunction.php on line 358
+[09-May-2023 13:27:42 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/adminFunction.php on line 368
+[09-May-2023 13:27:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/service-reminder.php:67) in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/MainAdmin_avinash/service-reminder.php on line 69
+[05-Jul-2023 07:40:17 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/premautomobiles/MainAdmin/adminFunction.php on line 358
+[05-Jul-2023 07:40:17 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/premautomobiles/MainAdmin/adminFunction.php on line 358
+[05-Jul-2023 07:40:17 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/premautomobiles/MainAdmin/adminFunction.php on line 368
+[05-Jul-2023 08:59:07 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/premautomobiles/MainAdmin/invoice.php on line 153
+[05-Jul-2023 08:59:45 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/premautomobiles/MainAdmin/invoice.php on line 153
+[05-Jul-2023 09:04:09 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/premautomobiles/MainAdmin/invoiceprint.php on line 154
+[05-Jul-2023 09:04:17 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/premautomobiles/MainAdmin/invoiceprint.php on line 154
+[05-Jul-2023 09:04:36 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/premautomobiles/MainAdmin/invoice.php on line 153
+[05-Jul-2023 09:04:40 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/premautomobiles/MainAdmin/invoiceprint.php on line 154
+[05-Jul-2023 09:05:25 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/premautomobiles/MainAdmin/invoiceprint.php on line 154
+[05-Jul-2023 09:05:30 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/premautomobiles/MainAdmin/invoiceprint.php on line 154
+[05-Jul-2023 09:05:38 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/premautomobiles/MainAdmin/invoice.php on line 153
+[05-Jul-2023 09:05:43 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/premautomobiles/MainAdmin/invoiceprint.php on line 154
+[05-Jul-2023 09:06:13 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/premautomobiles/MainAdmin/invoice.php on line 153
+[05-Jul-2023 10:55:16 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/premautomobiles/MainAdmin/adminFunction.php on line 358
+[05-Jul-2023 10:55:16 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/premautomobiles/MainAdmin/adminFunction.php on line 358
+[05-Jul-2023 10:55:16 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/premautomobiles/MainAdmin/adminFunction.php on line 368
+[14-Sep-2023 07:29:41 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin2/invoice.php on line 51
+[14-Sep-2023 07:31:31 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin2/invoice.php on line 51
+[14-Sep-2023 07:31:40 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin2/invoiceprint.php on line 47
+[14-Sep-2023 07:37:45 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[14-Sep-2023 07:37:45 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 153
+[14-Sep-2023 07:37:59 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 47
+[14-Sep-2023 07:37:59 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 154
+[14-Sep-2023 07:40:25 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[14-Sep-2023 10:06:13 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 368
+[14-Sep-2023 10:06:13 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 368
+[14-Sep-2023 10:06:13 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 378
+[14-Sep-2023 10:06:23 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[20-Sep-2023 12:43:51 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 629
+[20-Sep-2023 12:59:35 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 368
+[20-Sep-2023 12:59:35 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 368
+[20-Sep-2023 12:59:35 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 378
+[20-Sep-2023 12:59:55 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[20-Sep-2023 13:00:47 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 47
+[20-Sep-2023 13:05:54 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 47
+[24-Sep-2023 20:07:21 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[24-Sep-2023 20:07:21 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 153
+[24-Sep-2023 20:08:14 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[24-Sep-2023 20:08:14 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 153
+[25-Sep-2023 15:20:17 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 353
+[25-Sep-2023 15:20:17 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 368
+[25-Sep-2023 15:20:17 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 368
+[25-Sep-2023 15:20:17 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 378
+[25-Sep-2023 15:23:29 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[25-Sep-2023 15:23:37 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 47
+[25-Sep-2023 15:27:27 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 47
+[25-Sep-2023 15:48:12 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[25-Sep-2023 15:48:12 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 153
+[25-Sep-2023 15:48:25 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 47
+[25-Sep-2023 15:48:25 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 154
+[26-Sep-2023 07:31:15 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 619
+[26-Sep-2023 22:12:37 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 353
+[26-Sep-2023 22:12:37 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 368
+[26-Sep-2023 22:12:37 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 368
+[26-Sep-2023 22:12:37 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 378
+[05-Oct-2023 11:52:45 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[05-Oct-2023 11:52:45 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[05-Oct-2023 11:52:45 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[05-Oct-2023 11:52:45 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[17-Oct-2023 12:39:25 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[17-Oct-2023 12:39:25 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[17-Oct-2023 12:39:25 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[17-Oct-2023 12:39:25 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[17-Oct-2023 12:40:20 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[17-Oct-2023 12:40:22 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[17-Oct-2023 12:41:49 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[17-Oct-2023 12:42:17 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[17-Oct-2023 12:42:20 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[17-Oct-2023 12:42:24 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[17-Oct-2023 12:42:38 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[17-Oct-2023 12:42:40 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[17-Oct-2023 12:42:44 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[17-Oct-2023 12:42:58 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[17-Oct-2023 12:43:01 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[17-Oct-2023 12:43:14 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[19-Oct-2023 08:26:46 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[19-Oct-2023 08:26:46 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[19-Oct-2023 08:26:46 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[19-Oct-2023 08:26:46 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[19-Oct-2023 08:27:22 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[19-Oct-2023 08:27:34 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 47
+[25-Oct-2023 03:44:35 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[25-Oct-2023 03:44:35 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[25-Oct-2023 03:44:35 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[25-Oct-2023 03:44:35 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[25-Oct-2023 03:45:32 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 51
+[25-Oct-2023 03:47:01 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 47
+[01-Nov-2023 14:24:09 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[01-Nov-2023 14:24:09 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 157
+[01-Nov-2023 15:06:24 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[01-Nov-2023 15:06:24 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[01-Nov-2023 15:06:24 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[01-Nov-2023 15:06:24 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[01-Nov-2023 15:07:07 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[01-Nov-2023 15:07:14 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 51
+[01-Nov-2023 15:08:06 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[01-Nov-2023 15:08:20 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[01-Nov-2023 15:08:20 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[01-Nov-2023 15:08:27 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[01-Nov-2023 15:08:31 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[01-Nov-2023 15:08:35 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[01-Nov-2023 15:08:43 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[01-Nov-2023 15:10:31 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[01-Nov-2023 15:10:31 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[01-Nov-2023 15:10:31 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[01-Nov-2023 15:10:31 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[01-Nov-2023 15:10:44 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[01-Nov-2023 15:10:54 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 51
+[01-Nov-2023 15:14:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:11
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(11): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'showmeio_garage...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[01-Nov-2023 15:14:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:11
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(11): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'showmeio_garage...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[01-Nov-2023 15:15:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:11
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(11): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'showmeio_garage...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[01-Nov-2023 15:17:23 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[01-Nov-2023 15:17:23 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[01-Nov-2023 15:17:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[02-Nov-2023 04:08:23 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[02-Nov-2023 04:08:23 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 157
+[02-Nov-2023 04:09:56 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[02-Nov-2023 04:09:56 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 157
+[02-Nov-2023 04:24:41 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[02-Nov-2023 04:24:41 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[02-Nov-2023 04:24:41 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[02-Nov-2023 04:24:41 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[02-Nov-2023 04:31:50 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[02-Nov-2023 04:31:50 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[02-Nov-2023 04:31:50 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[02-Nov-2023 04:31:50 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[02-Nov-2023 04:32:30 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[02-Nov-2023 04:32:38 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 51
+[02-Nov-2023 04:33:13 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[03-Nov-2023 09:15:22 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[03-Nov-2023 09:15:22 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[03-Nov-2023 09:15:22 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[03-Nov-2023 09:15:22 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[03-Nov-2023 09:25:35 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:25:35 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:25:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[03-Nov-2023 09:25:39 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:25:39 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:25:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[03-Nov-2023 09:25:42 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:25:42 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:25:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[03-Nov-2023 09:25:45 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:25:45 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:25:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[03-Nov-2023 09:25:48 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:25:48 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:25:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[03-Nov-2023 09:26:00 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:26:00 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:26:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[03-Nov-2023 09:26:04 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:26:04 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:26:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[03-Nov-2023 09:26:10 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:26:10 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:26:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[03-Nov-2023 09:26:12 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:26:12 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:26:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[03-Nov-2023 09:27:50 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:27:50 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:27:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[03-Nov-2023 09:27:53 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:27:53 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[03-Nov-2023 09:27:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[03-Nov-2023 10:03:28 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[03-Nov-2023 10:03:32 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 51
+[03-Nov-2023 11:28:01 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[03-Nov-2023 11:28:01 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 157
+[03-Nov-2023 11:28:04 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 51
+[03-Nov-2023 11:28:04 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 158
+[06-Nov-2023 04:03:14 UTC] PHP Warning:  Undefined array key "c_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 433
+[06-Nov-2023 04:03:14 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[06-Nov-2023 04:03:14 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[06-Nov-2023 04:03:14 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[06-Nov-2023 04:03:14 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[06-Nov-2023 08:38:18 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[06-Nov-2023 08:38:18 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[06-Nov-2023 08:38:18 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[06-Nov-2023 08:38:18 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[06-Nov-2023 08:39:02 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[06-Nov-2023 08:41:16 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 51
+[15-Nov-2023 03:32:41 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 707
+[16-Nov-2023 06:03:33 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 707
+[16-Nov-2023 06:15:02 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[16-Nov-2023 06:15:02 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[16-Nov-2023 06:15:02 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[16-Nov-2023 06:15:02 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[16-Nov-2023 10:30:50 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[16-Nov-2023 10:31:14 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 51
+[16-Nov-2023 15:11:11 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 707
+[17-Nov-2023 07:28:40 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 707
+[17-Nov-2023 07:31:02 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[17-Nov-2023 07:31:02 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[17-Nov-2023 07:31:02 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[17-Nov-2023 07:31:02 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[17-Nov-2023 09:05:22 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 707
+[17-Nov-2023 19:30:39 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 707
+[18-Nov-2023 08:59:54 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[18-Nov-2023 08:59:54 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[18-Nov-2023 08:59:54 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[18-Nov-2023 08:59:54 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[18-Nov-2023 09:00:49 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[18-Nov-2023 09:01:18 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 51
+[19-Nov-2023 08:07:28 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[19-Nov-2023 08:07:28 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 157
+[19-Nov-2023 08:07:37 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 51
+[19-Nov-2023 08:07:37 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 158
+[19-Nov-2023 08:07:49 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[19-Nov-2023 08:07:49 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 157
+[19-Nov-2023 08:07:52 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[19-Nov-2023 08:07:52 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 157
+[19-Nov-2023 08:07:59 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[19-Nov-2023 08:07:59 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 157
+[19-Nov-2023 08:08:03 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[19-Nov-2023 08:08:03 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 157
+[19-Nov-2023 08:08:08 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[19-Nov-2023 08:08:08 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 157
+[19-Nov-2023 08:08:09 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[19-Nov-2023 08:08:09 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 157
+[19-Nov-2023 08:08:11 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[19-Nov-2023 08:08:11 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 157
+[20-Nov-2023 18:16:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S DOMBIVLI EAST', '9ae89effc29b13af3df26ea061dc1e6f5a5bedaa97c9a9e1d1ad9ca6a6bb1' at line 2 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php:306
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php(306): mysqli_query(Object(mysqli), 'INSERT INTO `ca...')
+#1 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php(277): register(Object(mysqli))
+#2 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 306
+[20-Nov-2023 19:23:05 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[20-Nov-2023 19:23:05 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[20-Nov-2023 19:23:05 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[20-Nov-2023 19:23:05 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[21-Nov-2023 02:59:57 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 707
+[21-Nov-2023 14:07:38 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[21-Nov-2023 14:07:38 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[21-Nov-2023 14:07:38 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[21-Nov-2023 14:07:38 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[22-Nov-2023 09:12:44 UTC] PHP Warning:  Undefined array key "user" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 36
+[22-Nov-2023 09:12:44 UTC] PHP Warning:  Undefined array key "user" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 47
+[22-Nov-2023 09:12:44 UTC] PHP Warning:  Undefined array key "g_address" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 48
+[22-Nov-2023 09:12:44 UTC] PHP Warning:  Undefined array key "g_mob" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 49
+[22-Nov-2023 09:12:44 UTC] PHP Warning:  Undefined array key "g_email" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 50
+[22-Nov-2023 09:12:44 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 51
+[22-Nov-2023 09:12:44 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 158
+[22-Nov-2023 12:34:48 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 707
+[24-Nov-2023 04:28:33 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 707
+[24-Nov-2023 04:31:59 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[24-Nov-2023 04:31:59 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[24-Nov-2023 04:31:59 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[24-Nov-2023 04:31:59 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[25-Nov-2023 15:19:25 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[25-Nov-2023 15:19:25 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[25-Nov-2023 15:19:25 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[25-Nov-2023 15:19:25 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[25-Nov-2023 15:19:54 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[25-Nov-2023 15:19:54 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[25-Nov-2023 15:19:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[25-Nov-2023 15:20:05 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[25-Nov-2023 15:20:05 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[25-Nov-2023 15:20:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[25-Nov-2023 15:20:07 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[25-Nov-2023 15:20:07 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[25-Nov-2023 15:20:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[25-Nov-2023 15:22:33 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[25-Nov-2023 15:22:33 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[25-Nov-2023 15:22:33 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[25-Nov-2023 15:22:33 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[25-Nov-2023 15:22:47 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[25-Nov-2023 15:23:47 UTC] PHP Warning:  Undefined variable $servername in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[25-Nov-2023 15:23:47 UTC] PHP Warning:  Undefined variable $dbname in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 11
+[25-Nov-2023 15:23:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php:18
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php(18): mysqli_query(Object(mysqli), 'SELECT * FROM j...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/service-reminder.php on line 18
+[25-Nov-2023 15:25:12 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[25-Nov-2023 15:26:43 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoice.php on line 55
+[25-Nov-2023 15:26:54 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/invoiceprint.php on line 51
+[27-Nov-2023 09:57:38 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 707
+[27-Nov-2023 10:02:31 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[27-Nov-2023 10:02:31 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:31 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:31 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[27-Nov-2023 10:02:33 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[27-Nov-2023 10:02:33 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:33 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:33 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[27-Nov-2023 10:02:33 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[27-Nov-2023 10:02:33 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:33 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:33 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[27-Nov-2023 10:02:33 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[27-Nov-2023 10:02:33 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:33 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:33 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[27-Nov-2023 10:02:34 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[29-Nov-2023 05:19:55 UTC] PHP Warning:  Undefined array key "chasno" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 439
+[29-Nov-2023 05:19:55 UTC] PHP Warning:  Array to string conversion in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[29-Nov-2023 05:19:55 UTC] PHP Warning:  Undefined variable $service1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 454
+[29-Nov-2023 05:19:55 UTC] PHP Warning:  Undefined array key "pid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 464
+[29-Nov-2023 07:38:14 UTC] PHP Warning:  Undefined array key "model" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/GarageAdmin/adminFunction.php on line 707
+[01-Dec-2023 03:38:30 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/invoice.php on line 55
+[01-Dec-2023 03:38:30 UTC] PHP Warning:  Undefined array key "uid" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/invoice.php on line 157
+[01-Dec-2023 03:43:22 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/invoice.php on line 55
+[01-Dec-2023 03:45:22 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/invoice.php on line 55
+[01-Dec-2023 03:45:32 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/invoice.php on line 55
+[01-Dec-2023 03:45:47 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/invoice.php on line 55
+[01-Dec-2023 03:46:24 UTC] PHP Warning:  Undefined array key "g_gst" in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/invoice.php on line 55
+[01-Dec-2023 03:53:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/connection.php on line 8
+[01-Dec-2023 03:53:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php:1) in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php on line 28
+[01-Dec-2023 03:53:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/connection.php on line 8
+[01-Dec-2023 03:53:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php on line 16
+[01-Dec-2023 03:53:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php:24
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php(24): mysqli_query(Object(mysqli), 'DELETE FROM job...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php on line 24
+[01-Dec-2023 03:53:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/connection.php on line 8
+[01-Dec-2023 03:53:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php on line 16
+[01-Dec-2023 03:53:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php:24
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php(24): mysqli_query(Object(mysqli), 'DELETE FROM job...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php on line 24
+[01-Dec-2023 03:54:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/connection.php on line 8
+[01-Dec-2023 03:54:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php:1) in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php on line 28
+[01-Dec-2023 03:55:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/connection.php on line 8
+[01-Dec-2023 03:55:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php on line 16
+[01-Dec-2023 03:55:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php:24
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php(24): mysqli_query(Object(mysqli), 'DELETE FROM job...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php on line 24
+[01-Dec-2023 03:58:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/connection.php on line 8
+[01-Dec-2023 03:58:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php:1) in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php on line 28
+[01-Dec-2023 03:59:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/connection.php on line 8
+[01-Dec-2023 03:59:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php on line 16
+[01-Dec-2023 03:59:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php:24
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php(24): mysqli_query(Object(mysqli), 'DELETE FROM job...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php on line 24
+[01-Dec-2023 04:00:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/connection.php on line 8
+[01-Dec-2023 04:00:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php on line 16
+[01-Dec-2023 04:00:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php:24
+Stack trace:
+#0 /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php(24): mysqli_query(Object(mysqli), 'DELETE FROM job...')
+#1 {main}
+  thrown in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php on line 24
+[01-Dec-2023 04:27:18 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/connection.php on line 8
+[01-Dec-2023 04:27:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php:1) in /home2/showmeio/public_html/merigarage/newsite/merigarage-avinash/test/GarageAdmin/delete_jobcard.php on line 28
