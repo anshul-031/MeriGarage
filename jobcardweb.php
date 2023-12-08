@@ -62,25 +62,24 @@
                                         <input type="hidden" id="inputClientCompany" class="form-control" name="g_id" value="<?php echo $row['g_id']; ?>">
                                     </div>
                                     <div class="form-group">
-                                         <label for="inputClientCompany">Invoice No:<span class="required-text">*</span></label> 
-                                        <input type="number" id="inputClientCompany" class="form-control" name="invoice_no" value="" required>
+                                        <!-- <label for="inputClientCompany">Invoice No:<span class="required-text">*</span></label> -->
+                                        <input type="hidden" id="inputClientCompany" class="form-control" name="invoice_no" value="<?php echo generateInvoiceNumber(); ?>" required>
                                     </div>
-
                                     <div class="form-group">
                                         <label for="inputClientCompany">Customer Name:</label>
-                                        <input type="text" id="inputClientCompany" class="form-control" name="name" value="<?php echo $row['cus_name'];?>" placeholder="Enter Name" disabled>
+                                        <input type="text" id="inputClientCompany" class="form-control" name="name" value="<?php echo $row['cus_name'];?>" placeholder="Enter Name" readonly>
                                     </div>
                                     <div class="form-group">
                                         <!-- <label for="inputClientCompany">Garage Name</label> -->
-                                        <input type="hidden" id="inputClientCompany" class="form-control" name="g_name" value="<?php echo $_SESSION['user']; ?>" placeholder="Enter Name" disabled>
+                                        <input type="hidden" id="inputClientCompany" class="form-control" name="g_name" value="<?php echo $_SESSION['user']; ?>" placeholder="Enter Name" readonly>
                                     </div>
                                     <div class="form-group">
                                         <label for="inputClientCompany">WhatsApp/Mobile No:</label>
-                                        <input type="text" id="inputClientCompany" class="form-control" name="mobile" value="<?php echo $row['cus_mob']; ?>" placeholder="Enter Mobile No" disabled>
+                                        <input type="text" id="inputClientCompany" class="form-control" name="mobile" value="<?php echo $row['cus_mob']; ?>" placeholder="Enter Mobile No" readonly>
                                     </div>
                                     <div class="form-group">
                                         <!-- <label for="inputClientCompany">Email:</label> -->
-                                        <input type="hidden" id="inputClientCompany" class="form-control" name="email" value="<?php echo $row['cus_email']; ?>" placeholder="Enter Email" disabled>
+                                        <input type="hidden" id="inputClientCompany" class="form-control" name="email" value="<?php echo $row['cus_email']; ?>" placeholder="Enter Email" readonly>
                                     </div>
                                     <div class="form-group">
                                         <!-- <label for="inputClientCompany">GST</label> -->
@@ -111,7 +110,7 @@
                     <div class="card-body">
                     <div class="form-group">
                             <label for="inputStatus">Car Make:</label>
-                            <select id="inputStatus" name="carbrand" class="form-control custom-select" disabled>
+                            <select id="inputStatus" name="carbrand" class="form-control custom-select" readonly>
                                 <?php 
                                     $brand_sql = "SELECT * FROM `mericar_make`";
                                     $b_result = mysqli_query($conn, $brand_sql);
@@ -125,7 +124,7 @@
                         </div>
                         <div class="form-group">
                             <label for="inputStatus">Car Model:</label>
-                            <select id="inputStatus" name="carmodel" class="form-control custom-select" disabled>
+                            <select id="inputStatus" name="carmodel" class="form-control custom-select" readonly>
                                 <option disabled>Select one</option>
                                 <option value="<?php echo $row['car_model']; ?>"><?php echo $row['car_model']; ?></option>
                             </select>
@@ -216,12 +215,12 @@
             </div>
             <div class="card-body">
                 <div class="form-group">
-                    <label for="inputClientCompany">Interior Image:</label>
-                    <input type="file" id="inputClientCompany" name="img1[]" class="form-control" accept="image/*" placeholder="Choose Image" multiple>
+                    <label for="inputClientCompany">Interior Images: (Choose Multiple Images)<span class="required-text">*</span></label>
+                    <input type="file" id="inputClientCompany" name="img1[]" class="form-control" accept="image/*" placeholder="Choose Multiple Images" multiple>
                 </div>
                 <div class="form-group">
-                    <label for="inputClientCompany">Exterior Image:</label>
-                    <input type="file" id="inputClientCompany" name="img2[]" class="form-control" accept="image/*" placeholder="Choose Image" multiple>
+                    <label for="inputClientCompany">Exterior Images: (Choose Multiple Images)<span class="required-text">*</span></label>
+                    <input type="file" id="inputClientCompany" name="img2[]" class="form-control" accept="image/*" placeholder="Choose Multiple Images" multiple>
                 </div>
             </div>
             <!-- /.card-body -->

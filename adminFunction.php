@@ -228,6 +228,7 @@ function login($conn)
             $_SESSION['img'] = $row['img'];
             $_SESSION['g_email'] = $row['g_email'];
             $_SESSION['g_mob'] = $row['g_mob'];
+            $_SESSION['g_gst'] = $row['g_gst'];
             $_SESSION['g_address'] = $row['g_address'];
             $_SESSION['password'] = $row['password'];
             header("location: dashboard.php");
@@ -418,11 +419,12 @@ if (isset($_POST['Msg-del']) && isset($_POST['uid'])) {
 
 if(isset($_POST['btn-done'])){
 
-    $dir="uploads/";
-    $file1= $dir.basename($_FILES['img1[]']['name']);
-    move_uploaded_file($_FILES['img1[]']['tmp_name'], $file1);
-    $file2= $dir.basename($_FILES['img2[]']['name']);
-    move_uploaded_file($_FILES['img2[]']['tmp_name'], $file2);
+    // $dir="uploads/";
+    // $file1= $dir.basename($_FILES['img1']['name']);
+    // move_uploaded_file($_FILES['img1']['tmp_name'], $file1);
+    // $file2= $dir.basename($_FILES['img2']['name']);
+    // move_uploaded_file($_FILES['img2']['tmp_name'], $file2);
+    
 
     $gid=$_POST['g_id'];
     $uid=$_POST['uid'];
@@ -449,9 +451,28 @@ if(isset($_POST['btn-done'])){
     $hsn=$_POST['hsn_code'];
     $gst=$_POST['gst'];
     $totalprice=$_POST['total'];
+
+    $img1_files = $_FILES['img1'];
+    $img1_dir = "uploads/";
+    $img1_uploaded_files = [];
+    foreach ($img1_files['tmp_name'] as $key => $tmp_name) {
+        $img1_file_name = $img1_dir . basename($img1_files['name'][$key]);
+        move_uploaded_file($tmp_name, $img1_file_name);
+        $img1_uploaded_files[] = $img1_file_name;
+    }
+
+    // Handle multiple file uploads for img2
+    $img2_files = $_FILES['img2'];
+    $img2_dir = "uploads/";
+    $img2_uploaded_files = [];
+    foreach ($img2_files['tmp_name'] as $key => $tmp_name) {
+        $img2_file_name = $img2_dir . basename($img2_files['name'][$key]);
+        move_uploaded_file($tmp_name, $img2_file_name);
+        $img2_uploaded_files[] = $img2_file_name;
+    }
       
     $sql="INSERT INTO `jobcard`(`g_id`,`uid`,`invoice_no`,`name`,`c_gst`,`contact`,`email`,`address`,`carbrand`,`carmodel`,`fueltype`,`registration`,`chassis_no`,`odometer`,`transmission`,`braking`,`fuelmeter`,`document`,`inventory`,`img1`,`img2`,`totalprice`,`service`) 
-    VALUES ('$gid','$uid','$invoice_no','$name','$c_gst','$mobile','$email','$address','$brand','$model','$fuel','$regino','$chassis_no','$odometer','$transmission','$braking','$fuelmeter','$doc','$inventry','$file1','$file2','$totalprice','$service1')";
+    VALUES ('$gid','$uid','$invoice_no','$name','$c_gst','$mobile','$email','$address','$brand','$model','$fuel','$regino','$chassis_no','$odometer','$transmission','$braking','$fuelmeter','$doc','$inventry', '" . implode(",", $img1_uploaded_files) . "','" . implode(",", $img2_uploaded_files) . "','$totalprice','$service1')";
     $res=mysqli_query($conn,$sql);
     if($res==1){
         //carditems create this section
@@ -472,6 +493,10 @@ if(isset($_POST['btn-done'])){
     }else{
         echo "error";
     }
+}
+
+function generateInvoiceNumber() {
+    return mt_rand(10, 999);
 }
 
 ////////////////////////Edit JobCard//////////////////////////////////
@@ -605,14 +630,13 @@ function view_details($conn)
             <td><?php echo $row['document']; ?></td>
             <td><?php echo $row['inventory']; ?></td>
             <td><?php echo $row['created_at']; ?></td>
+            <td><br><img src="<?php echo implode('" alt="" style="width: 200px;"><img src="', explode(",", $row['img1'])); ?>" alt="" style="width: 200px;"></td>
+            <td><br><img src="<?php echo implode('" alt="" style="width: 200px;"><img src="', explode(",", $row['img2'])); ?>" alt="" style="width: 200px;"></td>
             <td><strong><?php if($row['work_status']==1){
                 echo "Working";
             }else{ 
                 echo "Complete";
-            } ?></a></strong></td>
-              <td> <img src="<?php echo $row['img1']; ?>" alt="" style="width: 200px;"></td>
-            <td> <img src="<?php echo $row['img2']; ?>" alt="" style="width: 200px;"></td>
-            <td><a class="btn btn-success" href="ShowJobCard.php">Back</a></td>
+            } ?></a></strong><br><a class="btn btn-success float-right" href="ShowJobCard.php">Back</a></td>
         </tr>
 
     <?php $i++;
@@ -661,7 +685,8 @@ function display_jobcard($conn)
              <?php }
             }; ?></td>
             
-            <td class="text-center"><a class="btn btn-danger" href="service-reminder.php?id=<?php echo $row['id'];?>" >Send</a></td>
+            <!-- <td class="text-center"><a class="btn btn-danger" href="service-reminder.php?id=<?php echo $row['id'];?>" >Send</a></td> -->
+            <td><a href="https://wa.me/+91<?php echo $row['contact'];?>" class="btn btn-primary"><i></i>Send MSG On WhatsApp</a></td>
         </tr>
 
     <?php $i++;
