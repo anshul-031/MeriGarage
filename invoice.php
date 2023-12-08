@@ -70,7 +70,7 @@
                     <b>Tax Invoice #<?php echo $row['invoice_no']; ?></b><br>
                     <strong>Registration No:</strong>   <?php echo $row['registration']; ?><br>
                     <strong>Car Model:</strong>   <?php echo $row['carmodel']; ?><br>
-                    <strong>Chassis No:</strong>   <?php echo $row['chassis_no']; ?><br>
+                    <!-- <strong>Chassis No:</strong>   <?php echo $row['chassis_no']; ?><br> -->
                     <br>
                   </div>
                 </div>
