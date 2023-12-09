@@ -38,7 +38,7 @@
              <p>New Booking (Website)</p>
              </div>
 
-          <img class="img-fluid" src="custom-img/order_website.png" style="width:35%; height:35%; ">
+          <img class="img-fluid" src="custom-img/order_website.png" style="width:20%; height:20%; ">
 
           </div>
         </div>
@@ -56,7 +56,7 @@
             <p>New Order(App)</p>
             </div>
 
-            <img class="img-fluid" src="custom-img/order_App.png" style="width:35%; height:35%; ">
+            <img class="img-fluid" src="custom-img/order_App.png" style="width:20%; height:20%; ">
 
           </div>
 
@@ -73,7 +73,7 @@
             <p>New Booking(App)</p>
             </div>
 
-            <img class="img-fluid" src="custom-img/new-booking-app.png" style="width:35%; height:35%; ">
+            <img class="img-fluid" src="custom-img/new-booking-app.png" style="width:20%; height:20%; ">
 
 
           </div>
@@ -94,7 +94,7 @@
             <p>Total Running JobCards</p>
             </div>
 
-            <img class="img-fluid" src="custom-img/total-running-jobcard.png" style="width:35%; height:35%; ">
+            <img class="img-fluid" src="custom-img/total-running-jobcard.png" style="width:20%; height:20%; ">
 
 
           </div>
@@ -113,7 +113,7 @@
             <p>Total Completed JobCards</p>
             </div>
 
-            <img class="img-fluid" src="custom-img/total-completed-jobcard.png" style="width:35%; height:35%; ">
+            <img class="img-fluid" src="custom-img/total-completed-jobcard.png" style="width:20%; height:20%; ">
           </div>
         </div>
       </div>
@@ -124,7 +124,7 @@
             <h3><?php count_complete_jobcard($conn); ?></h3>
             <p>Total G Coins</p>
             </div>
-            <img class="img-fluid" src="custom-img/g_coin.png" style="width:58%; height:58%; ">
+            <img class="img-fluid" src="custom-img/g_coin.png" style="width:35%; height:35%; ">
           </div>
         </div>
       </div>

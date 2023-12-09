@@ -35,7 +35,7 @@
              <p>New Booking (Website)</p>
              </div>
 
-          <img class="img-fluid" src="custom-img/order_website.png" style="width:35%; height:35%; ">
+          <img class="img-fluid" src="custom-img/order_website.png" style="width:20%; height:20%; ">
 
           </div>
         </div>
@@ -53,7 +53,7 @@
             <p>New Order(App)</p>
             </div>
 
-            <img class="img-fluid" src="custom-img/order_App.png" style="width:35%; height:35%; ">
+            <img class="img-fluid" src="custom-img/order_App.png" style="width:20%; height:20%; ">
 
           </div>
 
@@ -70,7 +70,7 @@
             <p>New Booking(App)</p>
             </div>
 
-            <img class="img-fluid" src="custom-img/new-booking-app.png" style="width:35%; height:35%; ">
+            <img class="img-fluid" src="custom-img/new-booking-app.png" style="width:20%; height:20%; ">
 
 
           </div>
@@ -91,7 +91,7 @@
             <p>Total Running JobCards</p>
             </div>
 
-            <img class="img-fluid" src="custom-img/total-running-jobcard.png" style="width:35%; height:35%; ">
+            <img class="img-fluid" src="custom-img/total-running-jobcard.png" style="width:20%; height:20%; ">
 
 
           </div>
@@ -110,14 +110,19 @@
             <p>Total Completed JobCards</p>
             </div>
 
-            <img class="img-fluid" src="custom-img/total-completed-jobcard.png" style="width:35%; height:35%; ">
-
-
-
+            <img class="img-fluid" src="custom-img/total-completed-jobcard.png" style="width:20%; height:20%; ">
           </div>
-
-
-     
+        </div>
+      </div>
+      <div class="col-lg-3 col-6">
+        <div class="small-box bg-warning">
+          <div class="inner d-flex align-items-center justify-content-between">
+            <div>
+            <h3><?php count_complete_jobcard($conn); ?></h3>
+            <p>Total G Coins</p>
+            </div>
+            <img class="img-fluid" src="custom-img/g_coin.png" style="width:35%; height:35%; ">
+          </div>
         </div>
       </div>
       <!-- ./col -->
