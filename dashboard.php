@@ -114,13 +114,18 @@
             </div>
 
             <img class="img-fluid" src="custom-img/total-completed-jobcard.png" style="width:35%; height:35%; ">
-
-
-
           </div>
-
-
-     
+        </div>
+      </div>
+      <div class="col-lg-3 col-6">
+        <div class="small-box bg-warning">
+          <div class="inner d-flex align-items-center justify-content-between">
+            <div>
+            <h3><?php count_complete_jobcard($conn); ?></h3>
+            <p>Total G Coins</p>
+            </div>
+            <img class="img-fluid" src="custom-img/g_coin.png" style="width:58%; height:58%; ">
+          </div>
         </div>
       </div>
       <!-- ./col -->

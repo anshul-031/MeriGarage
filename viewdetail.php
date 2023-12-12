@@ -62,7 +62,7 @@
                                         <th>Status :</th>
                                         <th>Interior Image :</th>
                                         <th>Exterior Image :</th>
-                                        <th>Action</th>
+                                        <th>Action :</th>
                                     </tr>
                                 </thead>
                                 <tbody>
