@@ -4,10 +4,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $message = $_POST['message'];
     $file = $_FILES['file'];
 
-    // Specify the uploads folder i have made in root
+    // Specify the upload folder 
     $uploadDir = __DIR__ . '/upload/';
 
-    // Create the uploads directory 
+    // Create the upload directory 
     if (!file_exists($uploadDir)) {
         mkdir($uploadDir, 0777, true);
     }
@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $filePath = $uploadDir . $filename;
     move_uploaded_file($file['tmp_name'], $filePath);
 
-    // Store the timestamp when the file was uploaded
+    
     $timestampFile = $uploadDir . 'timestamps/' . $filename . '.txt';
     file_put_contents($timestampFile, time());
 

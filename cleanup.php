@@ -21,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['cleanup'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cleanup Files</title>
     <script>
-        // Function to automatically submit the form after one minute
+        
         setTimeout(function() {
             document.getElementById('cleanupForm').submit();
         }, 120000); // 60000 milliseconds = 1 minute
