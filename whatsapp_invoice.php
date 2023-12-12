@@ -1,36 +1,32 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-
     $to = $_POST['to'];
     $message = $_POST['message'];
     $file = $_FILES['file'];
 
-    // Include the Composer autoloader
-    require 'vendor/autoload.php';
+    // Specify the uploads folder i have made in root
+    $uploadDir = __DIR__ . '/upload/';
 
-    // Firebase configuration
-    $jsonFilePath = __DIR__ . '/firebasejsonfile.json'; // Adding Path to Firebase JSON file
-    $firebase = (new Kreait\Firebase\Factory)->withServiceAccount($jsonFilePath);
-    $storage = $firebase->createStorage();
+    // Create the uploads directory 
+    if (!file_exists($uploadDir)) {
+        mkdir($uploadDir, 0777, true);
+    }
 
-    // Creating a unique filename for the uploaded file
+    // Move the uploaded file to the local storage
     $filename = uniqid() . '_' . $file['name'];
+    $filePath = $uploadDir . $filename;
+    move_uploaded_file($file['tmp_name'], $filePath);
 
-    // Upload the file to Firebase Storage
-    $storage->getBucket()->upload(file_get_contents($file['tmp_name']), [
-        'name' => $filename
-    ]);
+    // Store the timestamp when the file was uploaded
+    $timestampFile = $uploadDir . 'timestamps/' . $filename . '.txt';
+    file_put_contents($timestampFile, time());
 
-    // Get the file URL from Firebase Storage
-    $fileUrl = $storage->getBucket()->object($filename)->signedUrl(new DateTime('tomorrow'));
+    // Include the link to the file in the message
+    // $fileLink = "http://localhost:3000/uploads/$filename";
+    $fileLink = "https://www.africau.edu/images/default/sample.pdf";
+    // $message .= "\nDownload Your Invoice From Here: $fileLink";
 
-    // Shorten the URL using TinyURL
-    $shortenedUrl = shortenUrl($fileUrl);
-
-    // Include the shortened URL in the message
-    $message .= "\nDownload Your Invoice From Here: $shortenedUrl";
-
-    // rcsoft  WhatsApp API code
+    // rcsoft WhatsApp API code
     $whatsappApiUrl = 'https://whats-api.rcsoft.in/api/create-message';
 
     // Send the message via WhatsApp API
@@ -46,11 +42,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
         CURLOPT_CUSTOMREQUEST => 'POST',
         CURLOPT_POSTFIELDS => array(
-            'appkey' => '07ced86e-87ad-4750-a36b-81d0a8243f39',
-            'authkey' => 'ewlbEjLyszStZLpEL9oe8TkDkZrh11ZoIsAY32BNrufJg0SGpD',
+            'appkey' => '7b51b259-af99-458c-a535-1aea2a870184',
+            'authkey' => 'Suez5KExrxgKOibkfPl94yXZiMVFwvw33KC3f02rF1FHTYvqCj',
             'to' => $to,
             'message' => $message,
-            'sandbox' => 'false'
+            'file' => $fileLink,
+            'sandbox' => 'false',
         ),
     ));
 
@@ -64,29 +61,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     exit;
 }
 
-function shortenUrl($url)
-{
-    $apiUrl = 'http://tinyurl.com/api-create.php?url=' . urlencode($url);
 
-    $curl = curl_init();
-
-    curl_setopt_array($curl, array(
-        CURLOPT_URL => $apiUrl,
-        CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_ENCODING => '',
-        CURLOPT_MAXREDIRS => 10,
-        CURLOPT_TIMEOUT => 0,
-        CURLOPT_FOLLOWLOCATION => true,
-        CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-    ));
-
-    $response = curl_exec($curl);
-
-    // Close the curl request
-    curl_close($curl);
-
-    return $response;
-}
 ?>
 
 <!DOCTYPE html>
@@ -99,23 +74,8 @@ function shortenUrl($url)
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WhatsApp Invoice</title>
-    <!-- Include the Firebase SDK -->
-    <script src="https://www.gstatic.com/firebasejs/9.6.7/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.6.7/firebase-storage.js"></script>
 
-    <script>
-        // Initializing Firebase With My Credentials
-        const firebaseConfig = {
-            apiKey: "AIzaSyDwzmPDlwPVgyImjCRLXTIBT4XVOM58Az0",
-            authDomain: "whatsapp-2075a.firebaseapp.com",
-            projectId: "whatsapp-2075a",
-            storageBucket: "whatsapp-2075a.appspot.com",
-            messagingSenderId: "29041130048",
-            appId: "1:29041130048:web:9ed3f45c1decde8d83fda5"
-        };
 
-        firebase.initializeApp(firebaseConfig);
-    </script>
 
 
 
@@ -157,7 +117,7 @@ function shortenUrl($url)
             <input type="text" id="to" placeholder="Add +91 with number" name="to" required class="w-full p-2 mb-4 border">
 
             <label for="message" class="block mb-2">Message:</label>
-            <textarea id="message" placeholder="Your Message" name="message" rows="4" required class="w-full p-2 mb-4 border"></textarea>
+            <textarea id="message" name="message" rows="4" required class="w-full p-2 mb-4 border">Thank you for doing purchase with us</textarea>
 
             <label for="file" class="block mb-2">Choose a file:</label>
             <input type="file" id="file" name="file" required class="w-full p-2 mb-4 border">
